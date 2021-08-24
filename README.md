@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @motoiyamaha
-- 👀 I’m interested in bulding energy conservation
+- 👀 I’m interested in bulding energy conservation.
 - 🌱 I’m currently learning ifcOpenshell.
 
 <!---
